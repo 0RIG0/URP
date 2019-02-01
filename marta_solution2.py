@@ -10,5 +10,4 @@ for line in lines:
 	 
 print total 
 
-print ("total is ")
  
