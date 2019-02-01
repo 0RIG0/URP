@@ -10,5 +10,4 @@ for line in lines:
 	total = total + conv_int 
 print total 
 
-print ("total is ")
  
